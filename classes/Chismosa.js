@@ -27,10 +27,10 @@ class Chismosa{
     }
     set reputacion(valor) {
         this.#reputacion = Math.min(Math.max(0, valor), 10);
-      }
+    }
     set nivelChisme(valor) {
         this.#nivelChisme = Math.min(Math.max(0, valor), 10);
-      }
+    }
 }
 
 module.exports = Chismosa;
