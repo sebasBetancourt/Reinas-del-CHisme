@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/sebasBetancourt/Reinas-del-CHisme/issues"
   },
-  "homepage": "https://github.com/sebasBetancourt/Reinas-del-CHisme#readme"
+  "homepage": "https://github.com/sebasBetancourt/Reinas-del-CHisme#readme",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
 }
