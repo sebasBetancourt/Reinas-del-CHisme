@@ -4,7 +4,7 @@ Este es un proyecto orientado a objetos hecho en **Node.js**, que modela una red
 
 ---
 
-## 📦 Requisitos
+## Requisitos
 
 - Node.js v14 o superior
 - npm (gestor de paquetes de Node)
@@ -12,7 +12,7 @@ Este es un proyecto orientado a objetos hecho en **Node.js**, que modela una red
 
 ---
 
-## 🚀 Instalación
+## Instalación
 
 1. Clona el repositorio:
 
